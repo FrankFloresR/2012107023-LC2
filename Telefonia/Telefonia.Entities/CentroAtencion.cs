@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Telefonia.Entities
 {
-    class CentroAtencion
+   public class CentroAtencion
     {
+        private Direccion _Direccion;
+        public CentroAtencion()
+        {
+            _Direccion = new Direccion();
+        }
     }
 }

@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Telefonia.Entities
 {
-    class Plan
-    {
+    public class Plan
+    {private TipoPlan _TipoPlan;
+        
+        public Plan()
+        {
+            _TipoPlan = new TipoPlan();
+        }
+
     }
 }

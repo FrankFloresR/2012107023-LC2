@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Telefonia.Entities
 {
-    class Direccion
+    public class Direccion
     {
+        private Ubigeo _Ubigeo;
+        public Direccion()
+        {
+            _Ubigeo = new Ubigeo();
+        }
     }
 }

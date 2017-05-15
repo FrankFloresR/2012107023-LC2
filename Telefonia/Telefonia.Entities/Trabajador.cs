@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Telefonia.Entities
 {
-    class Trabajador
+    public class Trabajador
     {
+        private TipoTrabajador _TipoTrabajador;
+
+        public Trabajador()
+        {
+            _TipoTrabajador = new TipoTrabajador();
+        }
     }
 }

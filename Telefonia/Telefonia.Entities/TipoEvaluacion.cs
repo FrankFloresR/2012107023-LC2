@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Telefonia.Entities
 {
-    class TipoEvaluacion
+    public class TipoEvaluacion
     {
+        public TipoEvaluacion(string descripcion)
+        {
+            Descripcion = descripcion;
+        }
+
+        public TipoEvaluacion()
+        {
+
+        }
+
+        public string Descripcion { get; set; }
     }
 }

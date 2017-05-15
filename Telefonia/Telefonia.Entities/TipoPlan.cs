@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace Telefonia.Entities
 {
-    class TipoPlan
+    public class TipoPlan
     {
+        public string Descripcion { get; set; }
+
+        //implementar prepago y postpago
+        public TipoPlan()
+        {
+
+        }
+
+        public TipoPlan(string descripcion)
+        {
+            Descripcion = descripcion;
+        }
+
     }
 }

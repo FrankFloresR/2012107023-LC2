@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Telefonia.Entities
 {
-    class Departamento
+    public class Departamento
     {
+        private List<Provincia> _Provincias;
+        public Departamento()
+        {
+            _Provincias = new List<Provincia>();
+        }
     }
 }

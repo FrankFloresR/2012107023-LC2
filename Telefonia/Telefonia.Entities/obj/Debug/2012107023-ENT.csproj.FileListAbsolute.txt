@@ -1,0 +1,5 @@
+C:\Users\frnk1\Documents\Visual Studio 2013\Projects\2012107023-LC2\Telefonia\Telefonia.Entities\bin\Debug\Telefonia.Entities.dll
+C:\Users\frnk1\Documents\Visual Studio 2013\Projects\2012107023-LC2\Telefonia\Telefonia.Entities\bin\Debug\Telefonia.Entities.pdb
+C:\Users\frnk1\Documents\Visual Studio 2013\Projects\2012107023-LC2\Telefonia\Telefonia.Entities\obj\Debug\2012107023-ENT.csprojResolveAssemblyReference.cache
+C:\Users\frnk1\Documents\Visual Studio 2013\Projects\2012107023-LC2\Telefonia\Telefonia.Entities\obj\Debug\Telefonia.Entities.dll
+C:\Users\frnk1\Documents\Visual Studio 2013\Projects\2012107023-LC2\Telefonia\Telefonia.Entities\obj\Debug\Telefonia.Entities.pdb

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Telefonia.Entities
 {
-    class Distrito
+    public class Distrito
     {
+         
     }
 }

@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Telefonia.Entities
 {
-    class Provincia
+    public class Provincia
     {
+        private List<Distrito> _Distritos;
+
+        public Provincia()
+        {
+            _Distritos = new List<Distrito>();
+        }
     }
 }

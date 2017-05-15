@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Telefonia.Entities
 {
-    class EstadoEvaluacion
+    public class EstadoEvaluacion
     {
     }
 }
